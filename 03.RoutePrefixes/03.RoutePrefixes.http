@@ -1,0 +1,6 @@
+@_03.RoutePrefixes_HostAddress = http://localhost:5123
+
+GET {{_03.RoutePrefixes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

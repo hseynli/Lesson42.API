@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ApiRouting", "01.ApiRouting\01.ApiRouting.csproj", "{52544CA7-6A9E-48C4-956B-0FF38B087400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Query", "02.Query\02.Query.csproj", "{53289259-770C-4EC8-9493-F27CC7A2DBDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RoutePrefixes", "03.RoutePrefixes\03.RoutePrefixes.csproj", "{20D5952D-4471-4FF4-ABBD-AA972E558DE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.RoutePrefix", "04.RoutePrefix\04.RoutePrefix.csproj", "{26615F00-73F4-4830-B39E-4FC1CD692053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Constraints", "05.Constraints\05.Constraints.csproj", "{80B7A8FF-C617-4FEF-8E5E-6BEE2C6A7613}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.OptionalParameters", "06.OptionalParameters\06.OptionalParameters.csproj", "{3D297089-B600-45AF-9505-9D6C4E82DD41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.HttpVerbs", "07.HttpVerbs\07.HttpVerbs.csproj", "{F99CE181-A037-4D95-8A92-E91B838E280A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52544CA7-6A9E-48C4-956B-0FF38B087400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52544CA7-6A9E-48C4-956B-0FF38B087400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52544CA7-6A9E-48C4-956B-0FF38B087400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52544CA7-6A9E-48C4-956B-0FF38B087400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53289259-770C-4EC8-9493-F27CC7A2DBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53289259-770C-4EC8-9493-F27CC7A2DBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53289259-770C-4EC8-9493-F27CC7A2DBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53289259-770C-4EC8-9493-F27CC7A2DBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20D5952D-4471-4FF4-ABBD-AA972E558DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20D5952D-4471-4FF4-ABBD-AA972E558DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20D5952D-4471-4FF4-ABBD-AA972E558DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20D5952D-4471-4FF4-ABBD-AA972E558DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26615F00-73F4-4830-B39E-4FC1CD692053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26615F00-73F4-4830-B39E-4FC1CD692053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26615F00-73F4-4830-B39E-4FC1CD692053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26615F00-73F4-4830-B39E-4FC1CD692053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B7A8FF-C617-4FEF-8E5E-6BEE2C6A7613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B7A8FF-C617-4FEF-8E5E-6BEE2C6A7613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B7A8FF-C617-4FEF-8E5E-6BEE2C6A7613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B7A8FF-C617-4FEF-8E5E-6BEE2C6A7613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D297089-B600-45AF-9505-9D6C4E82DD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D297089-B600-45AF-9505-9D6C4E82DD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D297089-B600-45AF-9505-9D6C4E82DD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D297089-B600-45AF-9505-9D6C4E82DD41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99CE181-A037-4D95-8A92-E91B838E280A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99CE181-A037-4D95-8A92-E91B838E280A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99CE181-A037-4D95-8A92-E91B838E280A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99CE181-A037-4D95-8A92-E91B838E280A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77AC3163-CE76-40F0-ADD5-9ABF99947569}
+	EndGlobalSection
+EndGlobal

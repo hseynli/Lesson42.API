@@ -1,0 +1,6 @@
+@_07.HttpVerbs_HostAddress = http://localhost:5178
+
+GET {{_07.HttpVerbs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

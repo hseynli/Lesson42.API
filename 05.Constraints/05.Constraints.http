@@ -1,0 +1,6 @@
+@_05.Constraints_HostAddress = http://localhost:5132
+
+GET {{_05.Constraints_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
